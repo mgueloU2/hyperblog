@@ -4,3 +4,5 @@ Estas lineas son de purebas para implementar las diferentes aplicaciones y utili
 
 Realizado por:
 Miguel Moreno
+
+En camara parece alto pero en realidad no es tan alto
