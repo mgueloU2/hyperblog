@@ -1,0 +1,6 @@
+Primeras pruebas de git
+
+Estas lineas son de purebas para implementar las diferentes aplicaciones y utilidades de git
+
+Realizado por:
+Miguel Moreno
